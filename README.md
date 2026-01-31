@@ -1,6 +1,6 @@
-# React + Vite
+# React Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and minimal notes taking web built with React, Vite and Tailwind CSS. Focused on a distraction free writing experience with a paper like UI and responsive design.
 
 Currently, two official plugins are available:
 
